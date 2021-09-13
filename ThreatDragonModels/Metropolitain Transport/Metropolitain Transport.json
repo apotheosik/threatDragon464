@@ -1,0 +1,12 @@
+{
+  "summary": {
+    "title": "Metropolitain Transport",
+    "owner": "G2 Security",
+    "description": "Subnetted infrastructure of Metropolitan Transport STRIDE threat model"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "reviewer": "Chris Sequeira, Project Lead"
+  }
+}
